@@ -1,6 +1,8 @@
 # TestBits-quiz
 
 Written in Java with Selenium webdriver
+All the class be find here,
+https://github.com/mrosli/TestBits-quiz/tree/main/TestBits/src/test/java/com/TestBits/quiz
 
 Assignment
 Evaluate your ability to create a basic test automation script using a tool/framework of
